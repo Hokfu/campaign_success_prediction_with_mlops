@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/db4b4632107141bc9ff26f157b26bcd2/artifacts
+end_time: 1721644118159
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: db4b4632107141bc9ff26f157b26bcd2
+run_name: gentle-jay-801
+run_uuid: db4b4632107141bc9ff26f157b26bcd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644117034
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/7a1907c99cce403d8d4522928e97dc69/artifacts
+end_time: 1721644083155
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 7a1907c99cce403d8d4522928e97dc69
+run_name: dapper-shad-616
+run_uuid: 7a1907c99cce403d8d4522928e97dc69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644082416
+status: 3
+tags: []
+user_id: khant

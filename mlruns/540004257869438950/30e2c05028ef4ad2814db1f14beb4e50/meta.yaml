@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/30e2c05028ef4ad2814db1f14beb4e50/artifacts
+end_time: 1721644821061
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 30e2c05028ef4ad2814db1f14beb4e50
+run_name: glamorous-hog-442
+run_uuid: 30e2c05028ef4ad2814db1f14beb4e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644818453
+status: 3
+tags: []
+user_id: khant

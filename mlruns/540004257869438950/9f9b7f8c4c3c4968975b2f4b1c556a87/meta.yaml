@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/9f9b7f8c4c3c4968975b2f4b1c556a87/artifacts
+end_time: 1721644582826
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 9f9b7f8c4c3c4968975b2f4b1c556a87
+run_name: angry-pig-71
+run_uuid: 9f9b7f8c4c3c4968975b2f4b1c556a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644579289
+status: 3
+tags: []
+user_id: khant

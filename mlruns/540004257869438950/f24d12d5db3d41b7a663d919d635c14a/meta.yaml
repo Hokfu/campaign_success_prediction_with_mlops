@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f24d12d5db3d41b7a663d919d635c14a/artifacts
+end_time: 1721644590484
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f24d12d5db3d41b7a663d919d635c14a
+run_name: rare-bug-968
+run_uuid: f24d12d5db3d41b7a663d919d635c14a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644586189
+status: 3
+tags: []
+user_id: khant

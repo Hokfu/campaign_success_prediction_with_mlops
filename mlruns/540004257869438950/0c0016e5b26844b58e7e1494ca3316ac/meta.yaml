@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/0c0016e5b26844b58e7e1494ca3316ac/artifacts
+end_time: 1721645267979
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 0c0016e5b26844b58e7e1494ca3316ac
+run_name: bold-fish-822
+run_uuid: 0c0016e5b26844b58e7e1494ca3316ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645262821
+status: 3
+tags: []
+user_id: khant

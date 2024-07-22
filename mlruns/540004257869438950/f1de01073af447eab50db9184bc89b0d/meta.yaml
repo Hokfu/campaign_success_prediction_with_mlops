@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f1de01073af447eab50db9184bc89b0d/artifacts
+end_time: 1721644128130
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f1de01073af447eab50db9184bc89b0d
+run_name: trusting-loon-252
+run_uuid: f1de01073af447eab50db9184bc89b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644126317
+status: 3
+tags: []
+user_id: khant

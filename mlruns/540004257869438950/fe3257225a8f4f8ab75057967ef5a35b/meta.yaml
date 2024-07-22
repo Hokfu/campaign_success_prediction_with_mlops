@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/fe3257225a8f4f8ab75057967ef5a35b/artifacts
+end_time: 1721644552785
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: fe3257225a8f4f8ab75057967ef5a35b
+run_name: adorable-quail-472
+run_uuid: fe3257225a8f4f8ab75057967ef5a35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644547402
+status: 3
+tags: []
+user_id: khant

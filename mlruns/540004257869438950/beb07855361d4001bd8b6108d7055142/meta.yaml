@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/beb07855361d4001bd8b6108d7055142/artifacts
+end_time: 1721644388582
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: beb07855361d4001bd8b6108d7055142
+run_name: brawny-rook-568
+run_uuid: beb07855361d4001bd8b6108d7055142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644385173
+status: 3
+tags: []
+user_id: khant

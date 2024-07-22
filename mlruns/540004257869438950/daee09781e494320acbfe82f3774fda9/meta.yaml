@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/daee09781e494320acbfe82f3774fda9/artifacts
+end_time: 1721644639671
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: daee09781e494320acbfe82f3774fda9
+run_name: whimsical-moose-424
+run_uuid: daee09781e494320acbfe82f3774fda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644637417
+status: 3
+tags: []
+user_id: khant

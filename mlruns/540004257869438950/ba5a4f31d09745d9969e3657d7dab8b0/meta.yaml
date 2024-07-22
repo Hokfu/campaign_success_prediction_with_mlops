@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ba5a4f31d09745d9969e3657d7dab8b0/artifacts
+end_time: 1721644409883
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ba5a4f31d09745d9969e3657d7dab8b0
+run_name: rambunctious-eel-405
+run_uuid: ba5a4f31d09745d9969e3657d7dab8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644405308
+status: 3
+tags: []
+user_id: khant

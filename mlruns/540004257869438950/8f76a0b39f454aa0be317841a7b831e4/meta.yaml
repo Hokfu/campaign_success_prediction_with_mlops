@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/8f76a0b39f454aa0be317841a7b831e4/artifacts
+end_time: 1721644460124
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 8f76a0b39f454aa0be317841a7b831e4
+run_name: grandiose-wren-495
+run_uuid: 8f76a0b39f454aa0be317841a7b831e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644456465
+status: 3
+tags: []
+user_id: khant

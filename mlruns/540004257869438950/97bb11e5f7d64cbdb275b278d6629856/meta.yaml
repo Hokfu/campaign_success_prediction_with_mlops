@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/97bb11e5f7d64cbdb275b278d6629856/artifacts
+end_time: 1721644368515
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 97bb11e5f7d64cbdb275b278d6629856
+run_name: bright-ant-496
+run_uuid: 97bb11e5f7d64cbdb275b278d6629856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644365950
+status: 3
+tags: []
+user_id: khant

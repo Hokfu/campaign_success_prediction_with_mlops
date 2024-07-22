@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f7ea5fd6320c416794c77d0af7c1edc9/artifacts
+end_time: 1721644071012
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f7ea5fd6320c416794c77d0af7c1edc9
+run_name: bedecked-boar-595
+run_uuid: f7ea5fd6320c416794c77d0af7c1edc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644070721
+status: 3
+tags: []
+user_id: khant

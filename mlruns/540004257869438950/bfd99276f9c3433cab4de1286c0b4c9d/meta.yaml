@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/bfd99276f9c3433cab4de1286c0b4c9d/artifacts
+end_time: 1721644320973
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: bfd99276f9c3433cab4de1286c0b4c9d
+run_name: intelligent-shad-969
+run_uuid: bfd99276f9c3433cab4de1286c0b4c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644318558
+status: 3
+tags: []
+user_id: khant

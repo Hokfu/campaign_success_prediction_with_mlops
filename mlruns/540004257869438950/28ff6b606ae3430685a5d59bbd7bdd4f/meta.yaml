@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/28ff6b606ae3430685a5d59bbd7bdd4f/artifacts
+end_time: 1721644486834
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 28ff6b606ae3430685a5d59bbd7bdd4f
+run_name: popular-bug-540
+run_uuid: 28ff6b606ae3430685a5d59bbd7bdd4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644484778
+status: 3
+tags: []
+user_id: khant

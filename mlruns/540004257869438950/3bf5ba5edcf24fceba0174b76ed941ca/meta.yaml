@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/3bf5ba5edcf24fceba0174b76ed941ca/artifacts
+end_time: 1721645252590
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 3bf5ba5edcf24fceba0174b76ed941ca
+run_name: handsome-hawk-418
+run_uuid: 3bf5ba5edcf24fceba0174b76ed941ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645247407
+status: 3
+tags: []
+user_id: khant

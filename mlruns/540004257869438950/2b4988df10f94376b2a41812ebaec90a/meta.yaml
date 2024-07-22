@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2b4988df10f94376b2a41812ebaec90a/artifacts
+end_time: 1721644072746
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 2b4988df10f94376b2a41812ebaec90a
+run_name: thundering-bass-734
+run_uuid: 2b4988df10f94376b2a41812ebaec90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644072384
+status: 3
+tags: []
+user_id: khant

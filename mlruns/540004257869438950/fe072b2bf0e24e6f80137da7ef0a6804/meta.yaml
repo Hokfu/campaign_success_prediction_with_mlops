@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/fe072b2bf0e24e6f80137da7ef0a6804/artifacts
+end_time: 1721644075560
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: fe072b2bf0e24e6f80137da7ef0a6804
+run_name: flawless-flea-739
+run_uuid: fe072b2bf0e24e6f80137da7ef0a6804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644075010
+status: 3
+tags: []
+user_id: khant

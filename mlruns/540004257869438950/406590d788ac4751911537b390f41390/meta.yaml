@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/406590d788ac4751911537b390f41390/artifacts
+end_time: 1721644560375
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 406590d788ac4751911537b390f41390
+run_name: angry-seal-622
+run_uuid: 406590d788ac4751911537b390f41390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644558027
+status: 3
+tags: []
+user_id: khant

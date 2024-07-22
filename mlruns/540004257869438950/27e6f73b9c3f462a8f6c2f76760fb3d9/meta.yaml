@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/27e6f73b9c3f462a8f6c2f76760fb3d9/artifacts
+deleted_time: 1721647155811
+end_time: 1721647079232
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: deleted
+run_id: 27e6f73b9c3f462a8f6c2f76760fb3d9
+run_name: gaudy-doe-965
+run_uuid: 27e6f73b9c3f462a8f6c2f76760fb3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721647067445
+status: 3
+tags: []
+user_id: khant

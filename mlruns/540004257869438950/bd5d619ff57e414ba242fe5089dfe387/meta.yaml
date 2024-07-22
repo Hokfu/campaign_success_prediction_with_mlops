@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/bd5d619ff57e414ba242fe5089dfe387/artifacts
+end_time: 1721644206402
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: bd5d619ff57e414ba242fe5089dfe387
+run_name: masked-worm-593
+run_uuid: bd5d619ff57e414ba242fe5089dfe387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644205180
+status: 3
+tags: []
+user_id: khant

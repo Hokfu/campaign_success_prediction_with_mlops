@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/6de6f0e1afba4157a90f38f7c1b58dd0/artifacts
+end_time: 1721645293309
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 6de6f0e1afba4157a90f38f7c1b58dd0
+run_name: agreeable-whale-948
+run_uuid: 6de6f0e1afba4157a90f38f7c1b58dd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645286556
+status: 3
+tags: []
+user_id: khant

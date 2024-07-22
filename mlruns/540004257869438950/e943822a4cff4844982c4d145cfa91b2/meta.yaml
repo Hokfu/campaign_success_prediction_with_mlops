@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/e943822a4cff4844982c4d145cfa91b2/artifacts
+end_time: 1721644536329
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: e943822a4cff4844982c4d145cfa91b2
+run_name: amazing-fawn-614
+run_uuid: e943822a4cff4844982c4d145cfa91b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644530837
+status: 3
+tags: []
+user_id: khant

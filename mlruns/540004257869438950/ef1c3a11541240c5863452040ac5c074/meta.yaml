@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ef1c3a11541240c5863452040ac5c074/artifacts
+end_time: 1721644927262
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ef1c3a11541240c5863452040ac5c074
+run_name: bedecked-ray-164
+run_uuid: ef1c3a11541240c5863452040ac5c074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644923164
+status: 3
+tags: []
+user_id: khant

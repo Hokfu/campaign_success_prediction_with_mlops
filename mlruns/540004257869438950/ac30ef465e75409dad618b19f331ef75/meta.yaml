@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ac30ef465e75409dad618b19f331ef75/artifacts
+end_time: 1721644158205
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ac30ef465e75409dad618b19f331ef75
+run_name: melodic-dove-965
+run_uuid: ac30ef465e75409dad618b19f331ef75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644155645
+status: 3
+tags: []
+user_id: khant

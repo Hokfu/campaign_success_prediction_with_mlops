@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2228c13adf374dec9bc9cf16a02bdf17/artifacts
+end_time: 1721644613868
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 2228c13adf374dec9bc9cf16a02bdf17
+run_name: burly-ray-660
+run_uuid: 2228c13adf374dec9bc9cf16a02bdf17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644607960
+status: 3
+tags: []
+user_id: khant

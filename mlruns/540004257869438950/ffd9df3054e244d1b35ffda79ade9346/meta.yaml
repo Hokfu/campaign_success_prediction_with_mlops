@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ffd9df3054e244d1b35ffda79ade9346/artifacts
+end_time: 1721644139116
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ffd9df3054e244d1b35ffda79ade9346
+run_name: powerful-hare-612
+run_uuid: ffd9df3054e244d1b35ffda79ade9346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644138210
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ebc088e18f5e4b7e9627b84e4990f282/artifacts
+end_time: 1721644353421
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ebc088e18f5e4b7e9627b84e4990f282
+run_name: able-mouse-693
+run_uuid: ebc088e18f5e4b7e9627b84e4990f282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644349418
+status: 3
+tags: []
+user_id: khant

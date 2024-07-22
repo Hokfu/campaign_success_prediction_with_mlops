@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/b909a34d96a343d2afd22699c76e1a48/artifacts
+end_time: 1721644359188
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: b909a34d96a343d2afd22699c76e1a48
+run_name: able-snail-740
+run_uuid: b909a34d96a343d2afd22699c76e1a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644357387
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/dcd6ba6845e048d29b6eb2f419e922e1/artifacts
+end_time: 1721644219278
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: dcd6ba6845e048d29b6eb2f419e922e1
+run_name: carefree-ox-255
+run_uuid: dcd6ba6845e048d29b6eb2f419e922e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644217385
+status: 3
+tags: []
+user_id: khant

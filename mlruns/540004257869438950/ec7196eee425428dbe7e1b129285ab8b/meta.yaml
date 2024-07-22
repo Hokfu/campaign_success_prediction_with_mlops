@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ec7196eee425428dbe7e1b129285ab8b/artifacts
+end_time: 1721645118819
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ec7196eee425428dbe7e1b129285ab8b
+run_name: bedecked-kite-789
+run_uuid: ec7196eee425428dbe7e1b129285ab8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645110998
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/46f7a77e6914494e820344735ff11472/artifacts
+end_time: 1721645223115
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 46f7a77e6914494e820344735ff11472
+run_name: bald-yak-72
+run_uuid: 46f7a77e6914494e820344735ff11472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645214669
+status: 3
+tags: []
+user_id: khant

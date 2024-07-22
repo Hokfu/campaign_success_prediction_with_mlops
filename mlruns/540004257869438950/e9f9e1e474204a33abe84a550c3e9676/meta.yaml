@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/e9f9e1e474204a33abe84a550c3e9676/artifacts
+end_time: 1721644077446
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: e9f9e1e474204a33abe84a550c3e9676
+run_name: enthused-hog-283
+run_uuid: e9f9e1e474204a33abe84a550c3e9676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644077025
+status: 3
+tags: []
+user_id: khant

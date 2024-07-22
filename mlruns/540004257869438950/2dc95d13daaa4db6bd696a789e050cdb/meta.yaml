@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2dc95d13daaa4db6bd696a789e050cdb/artifacts
+end_time: 1721644726635
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 2dc95d13daaa4db6bd696a789e050cdb
+run_name: handsome-gnat-713
+run_uuid: 2dc95d13daaa4db6bd696a789e050cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644723978
+status: 3
+tags: []
+user_id: khant

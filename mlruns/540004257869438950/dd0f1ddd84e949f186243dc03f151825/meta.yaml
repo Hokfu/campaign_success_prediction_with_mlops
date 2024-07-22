@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/dd0f1ddd84e949f186243dc03f151825/artifacts
+end_time: 1721645030207
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: dd0f1ddd84e949f186243dc03f151825
+run_name: sassy-finch-289
+run_uuid: dd0f1ddd84e949f186243dc03f151825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645025514
+status: 3
+tags: []
+user_id: khant

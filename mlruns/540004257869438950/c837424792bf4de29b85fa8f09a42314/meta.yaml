@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/c837424792bf4de29b85fa8f09a42314/artifacts
+end_time: 1721645240823
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: c837424792bf4de29b85fa8f09a42314
+run_name: crawling-worm-569
+run_uuid: c837424792bf4de29b85fa8f09a42314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645237557
+status: 3
+tags: []
+user_id: khant

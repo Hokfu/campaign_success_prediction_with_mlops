@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/0a51365c6e124039bcdcb8208d73abf4/artifacts
+end_time: 1721645019515
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 0a51365c6e124039bcdcb8208d73abf4
+run_name: secretive-hare-704
+run_uuid: 0a51365c6e124039bcdcb8208d73abf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645016593
+status: 3
+tags: []
+user_id: khant

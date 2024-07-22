@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/0bc2ebce79a44657a7e30290c0526302/artifacts
+end_time: 1721644261005
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 0bc2ebce79a44657a7e30290c0526302
+run_name: righteous-hog-753
+run_uuid: 0bc2ebce79a44657a7e30290c0526302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644258854
+status: 3
+tags: []
+user_id: khant

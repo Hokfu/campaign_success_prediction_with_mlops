@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/6f2463eca1bd4334923b4370e49b654d/artifacts
+end_time: 1721644092866
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 6f2463eca1bd4334923b4370e49b654d
+run_name: vaunted-shark-689
+run_uuid: 6f2463eca1bd4334923b4370e49b654d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644092265
+status: 3
+tags: []
+user_id: khant

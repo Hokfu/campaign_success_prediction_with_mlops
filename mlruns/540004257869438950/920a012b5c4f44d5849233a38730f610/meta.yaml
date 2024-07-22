@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/920a012b5c4f44d5849233a38730f610/artifacts
+end_time: 1721644145226
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 920a012b5c4f44d5849233a38730f610
+run_name: omniscient-asp-114
+run_uuid: 920a012b5c4f44d5849233a38730f610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644143898
+status: 3
+tags: []
+user_id: khant

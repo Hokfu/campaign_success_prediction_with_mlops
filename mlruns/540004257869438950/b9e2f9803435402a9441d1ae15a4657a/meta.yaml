@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/b9e2f9803435402a9441d1ae15a4657a/artifacts
+end_time: 1721644494732
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: b9e2f9803435402a9441d1ae15a4657a
+run_name: youthful-sloth-560
+run_uuid: b9e2f9803435402a9441d1ae15a4657a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644492848
+status: 3
+tags: []
+user_id: khant

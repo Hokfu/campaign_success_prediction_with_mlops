@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2ae029bfc8364004be9098868a7ad210/artifacts
+end_time: 1721645182936
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 2ae029bfc8364004be9098868a7ad210
+run_name: efficient-carp-6
+run_uuid: 2ae029bfc8364004be9098868a7ad210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645176791
+status: 3
+tags: []
+user_id: khant

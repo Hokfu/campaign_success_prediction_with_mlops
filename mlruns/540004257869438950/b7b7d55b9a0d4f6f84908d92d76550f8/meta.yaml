@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/b7b7d55b9a0d4f6f84908d92d76550f8/artifacts
+end_time: 1721645286556
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: b7b7d55b9a0d4f6f84908d92d76550f8
+run_name: nervous-bass-687
+run_uuid: b7b7d55b9a0d4f6f84908d92d76550f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645279759
+status: 3
+tags: []
+user_id: khant

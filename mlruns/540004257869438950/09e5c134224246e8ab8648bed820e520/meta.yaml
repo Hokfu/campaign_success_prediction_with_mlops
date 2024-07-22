@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/09e5c134224246e8ab8648bed820e520/artifacts
+end_time: 1721644940054
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 09e5c134224246e8ab8648bed820e520
+run_name: puzzled-pug-208
+run_uuid: 09e5c134224246e8ab8648bed820e520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644935752
+status: 3
+tags: []
+user_id: khant

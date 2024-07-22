@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/a80b6e9f4ed04e49a291ca3504b91bad/artifacts
+end_time: 1721644084731
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: a80b6e9f4ed04e49a291ca3504b91bad
+run_name: rebellious-lamb-293
+run_uuid: a80b6e9f4ed04e49a291ca3504b91bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644083919
+status: 3
+tags: []
+user_id: khant

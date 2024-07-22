@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/99fba033a7da43c8ab4138291e227723/artifacts
+end_time: 1721644257326
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 99fba033a7da43c8ab4138291e227723
+run_name: placid-trout-367
+run_uuid: 99fba033a7da43c8ab4138291e227723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644255937
+status: 3
+tags: []
+user_id: khant

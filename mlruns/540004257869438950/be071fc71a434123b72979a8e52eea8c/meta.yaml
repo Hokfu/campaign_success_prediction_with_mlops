@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/be071fc71a434123b72979a8e52eea8c/artifacts
+end_time: 1721644146476
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: be071fc71a434123b72979a8e52eea8c
+run_name: legendary-ox-451
+run_uuid: be071fc71a434123b72979a8e52eea8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644145226
+status: 3
+tags: []
+user_id: khant

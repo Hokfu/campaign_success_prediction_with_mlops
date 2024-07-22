@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/565c0010b72d4c6c98baf31fa96ad576/artifacts
+end_time: 1721644631632
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 565c0010b72d4c6c98baf31fa96ad576
+run_name: funny-elk-860
+run_uuid: 565c0010b72d4c6c98baf31fa96ad576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644625767
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/feb3a900aa2f46de9fabee4c195d107c/artifacts
+end_time: 1721644625759
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: feb3a900aa2f46de9fabee4c195d107c
+run_name: bemused-crow-388
+run_uuid: feb3a900aa2f46de9fabee4c195d107c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644619830
+status: 3
+tags: []
+user_id: khant

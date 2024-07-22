@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5a015a533c4244a89cd5c4adbe850555/artifacts
+end_time: 1721644117018
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5a015a533c4244a89cd5c4adbe850555
+run_name: luxuriant-toad-903
+run_uuid: 5a015a533c4244a89cd5c4adbe850555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644115940
+status: 3
+tags: []
+user_id: khant

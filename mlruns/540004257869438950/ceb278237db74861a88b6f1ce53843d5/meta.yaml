@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ceb278237db74861a88b6f1ce53843d5/artifacts
+end_time: 1721644079251
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ceb278237db74861a88b6f1ce53843d5
+run_name: thundering-bat-483
+run_uuid: ceb278237db74861a88b6f1ce53843d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644078665
+status: 3
+tags: []
+user_id: khant

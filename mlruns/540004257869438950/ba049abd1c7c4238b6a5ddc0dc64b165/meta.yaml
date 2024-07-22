@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ba049abd1c7c4238b6a5ddc0dc64b165/artifacts
+end_time: 1721644179215
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ba049abd1c7c4238b6a5ddc0dc64b165
+run_name: traveling-steed-615
+run_uuid: ba049abd1c7c4238b6a5ddc0dc64b165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644177621
+status: 3
+tags: []
+user_id: khant

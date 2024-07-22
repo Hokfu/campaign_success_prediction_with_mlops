@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/513d731924b9454e8c3ad62d122d4441/artifacts
+end_time: 1721645048438
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 513d731924b9454e8c3ad62d122d4441
+run_name: worried-crow-490
+run_uuid: 513d731924b9454e8c3ad62d122d4441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645043800
+status: 3
+tags: []
+user_id: khant

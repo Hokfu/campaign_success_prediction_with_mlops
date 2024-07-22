@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/eb717e2f57c54959933eea5d649d0553/artifacts
+end_time: 1721644191082
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: eb717e2f57c54959933eea5d649d0553
+run_name: chill-perch-800
+run_uuid: eb717e2f57c54959933eea5d649d0553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644189082
+status: 3
+tags: []
+user_id: khant

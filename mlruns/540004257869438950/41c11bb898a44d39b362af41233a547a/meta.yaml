@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/41c11bb898a44d39b362af41233a547a/artifacts
+end_time: 1721644530829
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 41c11bb898a44d39b362af41233a547a
+run_name: upset-cod-504
+run_uuid: 41c11bb898a44d39b362af41233a547a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644526823
+status: 3
+tags: []
+user_id: khant

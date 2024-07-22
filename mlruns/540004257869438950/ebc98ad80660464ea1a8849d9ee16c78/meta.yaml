@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ebc98ad80660464ea1a8849d9ee16c78/artifacts
+end_time: 1721644987840
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ebc98ad80660464ea1a8849d9ee16c78
+run_name: powerful-zebra-225
+run_uuid: ebc98ad80660464ea1a8849d9ee16c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644979998
+status: 3
+tags: []
+user_id: khant

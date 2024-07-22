@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/db0a7ef69f134862a68c7b717ab3f592/artifacts
+end_time: 1721644648845
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: db0a7ef69f134862a68c7b717ab3f592
+run_name: chill-squid-109
+run_uuid: db0a7ef69f134862a68c7b717ab3f592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644646588
+status: 3
+tags: []
+user_id: khant

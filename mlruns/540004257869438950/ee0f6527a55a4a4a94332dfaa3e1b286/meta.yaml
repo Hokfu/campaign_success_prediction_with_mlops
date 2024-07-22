@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ee0f6527a55a4a4a94332dfaa3e1b286/artifacts
+end_time: 1721645039300
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ee0f6527a55a4a4a94332dfaa3e1b286
+run_name: ambitious-pig-654
+run_uuid: ee0f6527a55a4a4a94332dfaa3e1b286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645034745
+status: 3
+tags: []
+user_id: khant

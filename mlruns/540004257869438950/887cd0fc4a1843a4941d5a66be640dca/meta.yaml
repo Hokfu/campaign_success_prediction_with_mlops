@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/887cd0fc4a1843a4941d5a66be640dca/artifacts
+end_time: 1721645247391
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 887cd0fc4a1843a4941d5a66be640dca
+run_name: salty-toad-184
+run_uuid: 887cd0fc4a1843a4941d5a66be640dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645244091
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/e7675507b74b4846b1490acbeb650ab3/artifacts
+end_time: 1721644255931
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: e7675507b74b4846b1490acbeb650ab3
+run_name: nebulous-pig-527
+run_uuid: e7675507b74b4846b1490acbeb650ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644254405
+status: 3
+tags: []
+user_id: khant

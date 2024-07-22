@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/c0abda0db072427bbb48e40d3a90e6cd/artifacts
+end_time: 1721645131328
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: c0abda0db072427bbb48e40d3a90e6cd
+run_name: dashing-wren-188
+run_uuid: c0abda0db072427bbb48e40d3a90e6cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645128253
+status: 3
+tags: []
+user_id: khant

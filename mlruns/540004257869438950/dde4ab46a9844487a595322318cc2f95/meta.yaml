@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/dde4ab46a9844487a595322318cc2f95/artifacts
+end_time: 1721644184882
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: dde4ab46a9844487a595322318cc2f95
+run_name: nosy-squid-823
+run_uuid: dde4ab46a9844487a595322318cc2f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644182828
+status: 3
+tags: []
+user_id: khant

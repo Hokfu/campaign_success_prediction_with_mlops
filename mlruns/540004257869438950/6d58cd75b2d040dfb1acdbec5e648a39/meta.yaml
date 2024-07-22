@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/6d58cd75b2d040dfb1acdbec5e648a39/artifacts
+end_time: 1721644815734
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 6d58cd75b2d040dfb1acdbec5e648a39
+run_name: secretive-sow-394
+run_uuid: 6d58cd75b2d040dfb1acdbec5e648a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644812932
+status: 3
+tags: []
+user_id: khant

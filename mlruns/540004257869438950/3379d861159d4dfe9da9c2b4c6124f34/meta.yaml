@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/3379d861159d4dfe9da9c2b4c6124f34/artifacts
+end_time: 1721644072368
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 3379d861159d4dfe9da9c2b4c6124f34
+run_name: caring-ray-233
+run_uuid: 3379d861159d4dfe9da9c2b4c6124f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644071989
+status: 3
+tags: []
+user_id: khant

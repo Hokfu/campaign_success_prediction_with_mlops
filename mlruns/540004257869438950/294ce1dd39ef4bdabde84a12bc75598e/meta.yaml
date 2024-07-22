@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/294ce1dd39ef4bdabde84a12bc75598e/artifacts
+end_time: 1721644920287
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 294ce1dd39ef4bdabde84a12bc75598e
+run_name: clean-yak-180
+run_uuid: 294ce1dd39ef4bdabde84a12bc75598e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644917545
+status: 3
+tags: []
+user_id: khant

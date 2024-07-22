@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/340b7068d9f44dd4a605be8f90b65674/artifacts
+end_time: 1721644112331
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 340b7068d9f44dd4a605be8f90b65674
+run_name: honorable-shoat-817
+run_uuid: 340b7068d9f44dd4a605be8f90b65674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644111628
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/541fa1eaf6cd443aa73d71798cadb4f2/artifacts
+end_time: 1721644097620
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 541fa1eaf6cd443aa73d71798cadb4f2
+run_name: valuable-squid-707
+run_uuid: 541fa1eaf6cd443aa73d71798cadb4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644096776
+status: 3
+tags: []
+user_id: khant

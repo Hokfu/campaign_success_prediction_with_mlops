@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/aff1d609c6d14c16914a5937d078dda9/artifacts
+end_time: 1721644586180
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: aff1d609c6d14c16914a5937d078dda9
+run_name: skillful-loon-389
+run_uuid: aff1d609c6d14c16914a5937d078dda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644582826
+status: 3
+tags: []
+user_id: khant

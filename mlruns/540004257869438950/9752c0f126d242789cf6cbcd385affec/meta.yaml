@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/9752c0f126d242789cf6cbcd385affec/artifacts
+end_time: 1721644092258
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 9752c0f126d242789cf6cbcd385affec
+run_name: intrigued-finch-535
+run_uuid: 9752c0f126d242789cf6cbcd385affec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644091465
+status: 3
+tags: []
+user_id: khant

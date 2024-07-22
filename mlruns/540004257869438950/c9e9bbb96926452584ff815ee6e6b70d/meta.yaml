@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/c9e9bbb96926452584ff815ee6e6b70d/artifacts
+end_time: 1721644599130
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: c9e9bbb96926452584ff815ee6e6b70d
+run_name: learned-pug-456
+run_uuid: c9e9bbb96926452584ff815ee6e6b70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644594839
+status: 3
+tags: []
+user_id: khant

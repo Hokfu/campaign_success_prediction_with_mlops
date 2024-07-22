@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/c63aa7b16d7b4b129ada6ab0d0fc99b1/artifacts
+end_time: 1721644077015
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: c63aa7b16d7b4b129ada6ab0d0fc99b1
+run_name: upset-yak-865
+run_uuid: c63aa7b16d7b4b129ada6ab0d0fc99b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644076615
+status: 3
+tags: []
+user_id: khant

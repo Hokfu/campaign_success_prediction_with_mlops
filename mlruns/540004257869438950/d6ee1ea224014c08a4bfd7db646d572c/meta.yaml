@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d6ee1ea224014c08a4bfd7db646d572c/artifacts
+end_time: 1721644221119
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d6ee1ea224014c08a4bfd7db646d572c
+run_name: fearless-ant-167
+run_uuid: d6ee1ea224014c08a4bfd7db646d572c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644219285
+status: 3
+tags: []
+user_id: khant

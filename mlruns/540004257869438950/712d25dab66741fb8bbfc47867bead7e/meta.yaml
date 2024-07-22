@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/712d25dab66741fb8bbfc47867bead7e/artifacts
+end_time: 1721644868187
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 712d25dab66741fb8bbfc47867bead7e
+run_name: popular-zebra-483
+run_uuid: 712d25dab66741fb8bbfc47867bead7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644862935
+status: 3
+tags: []
+user_id: khant

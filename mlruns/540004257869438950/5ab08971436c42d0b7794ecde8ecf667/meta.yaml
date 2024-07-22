@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5ab08971436c42d0b7794ecde8ecf667/artifacts
+end_time: 1721644433620
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5ab08971436c42d0b7794ecde8ecf667
+run_name: respected-bass-942
+run_uuid: 5ab08971436c42d0b7794ecde8ecf667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644430825
+status: 3
+tags: []
+user_id: khant

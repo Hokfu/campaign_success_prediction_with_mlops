@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5193f28f5a3b41d88de499517e9ad468/artifacts
+end_time: 1721644267292
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5193f28f5a3b41d88de499517e9ad468
+run_name: serious-goat-65
+run_uuid: 5193f28f5a3b41d88de499517e9ad468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644265159
+status: 3
+tags: []
+user_id: khant

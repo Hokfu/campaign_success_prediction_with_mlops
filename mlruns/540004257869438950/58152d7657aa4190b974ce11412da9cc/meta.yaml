@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/58152d7657aa4190b974ce11412da9cc/artifacts
+end_time: 1721645306598
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 58152d7657aa4190b974ce11412da9cc
+run_name: powerful-gnat-934
+run_uuid: 58152d7657aa4190b974ce11412da9cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645300005
+status: 3
+tags: []
+user_id: khant

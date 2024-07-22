@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/0ee7072efaa14a59aea9767cac96b2b5/artifacts
+end_time: 1721644955401
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 0ee7072efaa14a59aea9767cac96b2b5
+run_name: unequaled-ant-712
+run_uuid: 0ee7072efaa14a59aea9767cac96b2b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644949722
+status: 3
+tags: []
+user_id: khant

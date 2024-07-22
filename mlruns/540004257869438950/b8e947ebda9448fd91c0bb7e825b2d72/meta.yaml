@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/b8e947ebda9448fd91c0bb7e825b2d72/artifacts
+end_time: 1721644126302
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: b8e947ebda9448fd91c0bb7e825b2d72
+run_name: salty-roo-175
+run_uuid: b8e947ebda9448fd91c0bb7e825b2d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644124911
+status: 3
+tags: []
+user_id: khant

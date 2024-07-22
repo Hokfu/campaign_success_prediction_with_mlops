@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f00451da62b942779022b8447f29f3e8/artifacts
+end_time: 1721644475098
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f00451da62b942779022b8447f29f3e8
+run_name: tasteful-squid-139
+run_uuid: f00451da62b942779022b8447f29f3e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644470138
+status: 3
+tags: []
+user_id: khant

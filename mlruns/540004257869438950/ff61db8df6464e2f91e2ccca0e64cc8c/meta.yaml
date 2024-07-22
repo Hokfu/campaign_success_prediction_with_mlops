@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ff61db8df6464e2f91e2ccca0e64cc8c/artifacts
+end_time: 1721644659343
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ff61db8df6464e2f91e2ccca0e64cc8c
+run_name: amusing-bee-696
+run_uuid: ff61db8df6464e2f91e2ccca0e64cc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644655838
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f5a7d824ed8b4b9abbb4be0b0fc6fe85/artifacts
+end_time: 1721644909052
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f5a7d824ed8b4b9abbb4be0b0fc6fe85
+run_name: loud-quail-227
+run_uuid: f5a7d824ed8b4b9abbb4be0b0fc6fe85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644902172
+status: 3
+tags: []
+user_id: khant

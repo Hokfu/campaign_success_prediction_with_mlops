@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5181c84dfc7c4e4a93a7e0b0f911311d/artifacts
+end_time: 1721644083919
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5181c84dfc7c4e4a93a7e0b0f911311d
+run_name: colorful-dove-244
+run_uuid: 5181c84dfc7c4e4a93a7e0b0f911311d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644083155
+status: 3
+tags: []
+user_id: khant

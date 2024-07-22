@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/75085111b848477e89fbdd7dc0575136/artifacts
+end_time: 1721644558027
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 75085111b848477e89fbdd7dc0575136
+run_name: intrigued-hen-666
+run_uuid: 75085111b848477e89fbdd7dc0575136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644552794
+status: 3
+tags: []
+user_id: khant

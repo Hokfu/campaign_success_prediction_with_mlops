@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/7288ba1c6fb948a684b76c7a37686f27/artifacts
+end_time: 1721644400485
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 7288ba1c6fb948a684b76c7a37686f27
+run_name: victorious-perch-347
+run_uuid: 7288ba1c6fb948a684b76c7a37686f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644395734
+status: 3
+tags: []
+user_id: khant

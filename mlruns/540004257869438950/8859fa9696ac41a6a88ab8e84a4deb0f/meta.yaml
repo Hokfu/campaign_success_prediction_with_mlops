@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/8859fa9696ac41a6a88ab8e84a4deb0f/artifacts
+end_time: 1721644258840
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 8859fa9696ac41a6a88ab8e84a4deb0f
+run_name: wise-shrike-688
+run_uuid: 8859fa9696ac41a6a88ab8e84a4deb0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644257334
+status: 3
+tags: []
+user_id: khant

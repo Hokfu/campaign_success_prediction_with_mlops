@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d6c7d0a8770341bdb992d1eec4df43e7/artifacts
+end_time: 1721644202282
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d6c7d0a8770341bdb992d1eec4df43e7
+run_name: auspicious-seal-955
+run_uuid: d6c7d0a8770341bdb992d1eec4df43e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644199454
+status: 3
+tags: []
+user_id: khant

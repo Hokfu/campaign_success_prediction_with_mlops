@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/114edee5d2214e1794f9de5749fb913f/artifacts
+end_time: 1721644313935
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 114edee5d2214e1794f9de5749fb913f
+run_name: upset-tern-530
+run_uuid: 114edee5d2214e1794f9de5749fb913f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644311565
+status: 3
+tags: []
+user_id: khant

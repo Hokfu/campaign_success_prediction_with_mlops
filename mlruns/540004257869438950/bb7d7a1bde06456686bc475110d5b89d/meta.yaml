@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/bb7d7a1bde06456686bc475110d5b89d/artifacts
+end_time: 1721644887835
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: bb7d7a1bde06456686bc475110d5b89d
+run_name: caring-squirrel-334
+run_uuid: bb7d7a1bde06456686bc475110d5b89d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644880726
+status: 3
+tags: []
+user_id: khant

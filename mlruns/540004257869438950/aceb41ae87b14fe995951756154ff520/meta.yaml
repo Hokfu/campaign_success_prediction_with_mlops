@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/aceb41ae87b14fe995951756154ff520/artifacts
+end_time: 1721644826644
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: aceb41ae87b14fe995951756154ff520
+run_name: nebulous-grouse-796
+run_uuid: aceb41ae87b14fe995951756154ff520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644823840
+status: 3
+tags: []
+user_id: khant

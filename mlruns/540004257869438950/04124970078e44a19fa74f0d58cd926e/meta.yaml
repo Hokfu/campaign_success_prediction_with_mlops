@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/04124970078e44a19fa74f0d58cd926e/artifacts
+end_time: 1721644274896
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 04124970078e44a19fa74f0d58cd926e
+run_name: trusting-tern-792
+run_uuid: 04124970078e44a19fa74f0d58cd926e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644272214
+status: 3
+tags: []
+user_id: khant

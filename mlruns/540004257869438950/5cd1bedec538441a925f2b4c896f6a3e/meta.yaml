@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5cd1bedec538441a925f2b4c896f6a3e/artifacts
+end_time: 1721644327432
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5cd1bedec538441a925f2b4c896f6a3e
+run_name: carefree-hare-780
+run_uuid: 5cd1bedec538441a925f2b4c896f6a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644324193
+status: 3
+tags: []
+user_id: khant

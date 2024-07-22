@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/fdec63d146dd4c70bbf3764fb137613d/artifacts
+end_time: 1721644167777
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: fdec63d146dd4c70bbf3764fb137613d
+run_name: polite-hog-950
+run_uuid: fdec63d146dd4c70bbf3764fb137613d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644165277
+status: 3
+tags: []
+user_id: khant

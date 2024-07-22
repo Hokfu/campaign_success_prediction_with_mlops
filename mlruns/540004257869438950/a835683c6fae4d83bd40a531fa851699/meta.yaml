@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/a835683c6fae4d83bd40a531fa851699/artifacts
+end_time: 1721645094745
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: a835683c6fae4d83bd40a531fa851699
+run_name: classy-vole-792
+run_uuid: a835683c6fae4d83bd40a531fa851699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645086667
+status: 3
+tags: []
+user_id: khant

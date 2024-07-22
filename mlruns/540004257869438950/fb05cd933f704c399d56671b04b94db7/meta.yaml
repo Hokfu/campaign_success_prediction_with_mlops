@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/fb05cd933f704c399d56671b04b94db7/artifacts
+end_time: 1721644108645
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: fb05cd933f704c399d56671b04b94db7
+run_name: enthused-cow-493
+run_uuid: fb05cd933f704c399d56671b04b94db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644107235
+status: 3
+tags: []
+user_id: khant

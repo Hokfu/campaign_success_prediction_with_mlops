@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/286e48a26c994e81b96a3dea898254e8/artifacts
+end_time: 1721644914623
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 286e48a26c994e81b96a3dea898254e8
+run_name: agreeable-dog-823
+run_uuid: 286e48a26c994e81b96a3dea898254e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644911831
+status: 3
+tags: []
+user_id: khant

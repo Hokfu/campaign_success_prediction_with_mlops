@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2e85f8f003024cf5997b1a7fa366917a/artifacts
+end_time: 1721644949714
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 2e85f8f003024cf5997b1a7fa366917a
+run_name: rumbling-mouse-629
+run_uuid: 2e85f8f003024cf5997b1a7fa366917a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644944184
+status: 3
+tags: []
+user_id: khant

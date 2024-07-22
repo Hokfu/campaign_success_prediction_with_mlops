@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/540238d4b5084d16ab768ac1f4c3f102/artifacts
+end_time: 1721644098700
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 540238d4b5084d16ab768ac1f4c3f102
+run_name: powerful-rook-930
+run_uuid: 540238d4b5084d16ab768ac1f4c3f102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644097629
+status: 3
+tags: []
+user_id: khant

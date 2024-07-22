@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/7b278282e85b42cb9590e1fd0d771c67/artifacts
+end_time: 1721644079861
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 7b278282e85b42cb9590e1fd0d771c67
+run_name: bald-pug-846
+run_uuid: 7b278282e85b42cb9590e1fd0d771c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644079253
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5a798fe813db4cfab24887d81f900dde/artifacts
+end_time: 1721644758316
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5a798fe813db4cfab24887d81f900dde
+run_name: sedate-bat-397
+run_uuid: 5a798fe813db4cfab24887d81f900dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644753132
+status: 3
+tags: []
+user_id: khant

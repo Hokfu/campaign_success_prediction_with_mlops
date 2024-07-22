@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d28e3ad94a7b4116a224f43061586eda/artifacts
+end_time: 1721644488807
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d28e3ad94a7b4116a224f43061586eda
+run_name: polite-gnat-196
+run_uuid: d28e3ad94a7b4116a224f43061586eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644486836
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5d9d63b85b5e475f9814965c4e1b9a9f/artifacts
+end_time: 1721644449113
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5d9d63b85b5e475f9814965c4e1b9a9f
+run_name: defiant-bird-261
+run_uuid: 5d9d63b85b5e475f9814965c4e1b9a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644445474
+status: 3
+tags: []
+user_id: khant

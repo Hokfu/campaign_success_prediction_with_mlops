@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/c227b1878002448d94a080f178ca35f9/artifacts
+end_time: 1721644304748
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: c227b1878002448d94a080f178ca35f9
+run_name: bright-wolf-414
+run_uuid: c227b1878002448d94a080f178ca35f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644303071
+status: 3
+tags: []
+user_id: khant

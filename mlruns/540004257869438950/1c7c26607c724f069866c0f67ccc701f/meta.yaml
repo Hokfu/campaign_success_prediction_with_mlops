@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/1c7c26607c724f069866c0f67ccc701f/artifacts
+end_time: 1721644073578
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 1c7c26607c724f069866c0f67ccc701f
+run_name: dapper-grouse-319
+run_uuid: 1c7c26607c724f069866c0f67ccc701f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644073169
+status: 3
+tags: []
+user_id: khant

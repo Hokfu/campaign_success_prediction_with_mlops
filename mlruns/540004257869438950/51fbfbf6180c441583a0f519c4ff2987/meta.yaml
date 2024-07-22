@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/51fbfbf6180c441583a0f519c4ff2987/artifacts
+end_time: 1721644715447
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 51fbfbf6180c441583a0f519c4ff2987
+run_name: amazing-chimp-571
+run_uuid: 51fbfbf6180c441583a0f519c4ff2987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644708924
+status: 3
+tags: []
+user_id: khant

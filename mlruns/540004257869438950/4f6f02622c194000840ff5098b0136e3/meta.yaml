@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/4f6f02622c194000840ff5098b0136e3/artifacts
+end_time: 1721644644233
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 4f6f02622c194000840ff5098b0136e3
+run_name: polite-kite-891
+run_uuid: 4f6f02622c194000840ff5098b0136e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644641990
+status: 3
+tags: []
+user_id: khant

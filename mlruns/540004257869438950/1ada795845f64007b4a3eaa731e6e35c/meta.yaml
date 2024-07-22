@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/1ada795845f64007b4a3eaa731e6e35c/artifacts
+end_time: 1721644124911
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 1ada795845f64007b4a3eaa731e6e35c
+run_name: traveling-kite-700
+run_uuid: 1ada795845f64007b4a3eaa731e6e35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644123489
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/638388fc10fb485cbd9e670d4f8f512c/artifacts
+end_time: 1721644689783
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 638388fc10fb485cbd9e670d4f8f512c
+run_name: bouncy-moth-379
+run_uuid: 638388fc10fb485cbd9e670d4f8f512c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644684982
+status: 3
+tags: []
+user_id: khant

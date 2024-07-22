@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/22b00f6ca7554be6b4f45e239d20bdb1/artifacts
+deleted_time: 1721647155810
+end_time: 1721646997945
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: deleted
+run_id: 22b00f6ca7554be6b4f45e239d20bdb1
+run_name: bemused-ape-773
+run_uuid: 22b00f6ca7554be6b4f45e239d20bdb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721646986155
+status: 4
+tags: []
+user_id: khant

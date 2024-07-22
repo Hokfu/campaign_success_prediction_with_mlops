@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/dd2581e1b97d4f0185aece3b47948822/artifacts
+end_time: 1721644381891
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: dd2581e1b97d4f0185aece3b47948822
+run_name: sincere-auk-84
+run_uuid: dd2581e1b97d4f0185aece3b47948822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644378619
+status: 3
+tags: []
+user_id: khant

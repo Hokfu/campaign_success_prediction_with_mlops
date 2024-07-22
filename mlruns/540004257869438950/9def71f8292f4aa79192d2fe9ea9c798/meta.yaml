@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/9def71f8292f4aa79192d2fe9ea9c798/artifacts
+end_time: 1721644080454
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 9def71f8292f4aa79192d2fe9ea9c798
+run_name: learned-kit-473
+run_uuid: 9def71f8292f4aa79192d2fe9ea9c798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644079869
+status: 3
+tags: []
+user_id: khant

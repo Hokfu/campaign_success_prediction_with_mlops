@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/fbdcef909dbd467da2e53e5536c51349/artifacts
+end_time: 1721644130036
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: fbdcef909dbd467da2e53e5536c51349
+run_name: amazing-deer-247
+run_uuid: fbdcef909dbd467da2e53e5536c51349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644128146
+status: 3
+tags: []
+user_id: khant

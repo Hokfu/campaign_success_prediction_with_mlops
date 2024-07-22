@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d5422ceaa07b4f1cae6bb46d9cf004ee/artifacts
+end_time: 1721644357377
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d5422ceaa07b4f1cae6bb46d9cf004ee
+run_name: spiffy-cow-515
+run_uuid: d5422ceaa07b4f1cae6bb46d9cf004ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644353421
+status: 3
+tags: []
+user_id: khant

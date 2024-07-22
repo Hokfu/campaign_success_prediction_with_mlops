@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/eae81e24bfd64eac97267e4ede69c149/artifacts
+end_time: 1721644142601
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: eae81e24bfd64eac97267e4ede69c149
+run_name: bouncy-whale-741
+run_uuid: eae81e24bfd64eac97267e4ede69c149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644141336
+status: 3
+tags: []
+user_id: khant

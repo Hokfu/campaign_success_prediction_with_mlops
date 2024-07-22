@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f4a7075bfd634587bc085a8cd944de10/artifacts
+end_time: 1721644492848
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f4a7075bfd634587bc085a8cd944de10
+run_name: polite-shad-12
+run_uuid: f4a7075bfd634587bc085a8cd944de10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644490821
+status: 3
+tags: []
+user_id: khant

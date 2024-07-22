@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/57f946b774be4e77a04fb8dbfce5a99b/artifacts
+end_time: 1721644641974
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 57f946b774be4e77a04fb8dbfce5a99b
+run_name: debonair-owl-897
+run_uuid: 57f946b774be4e77a04fb8dbfce5a99b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644639681
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/9f07e0c519a14e6d8317e2c16c4c04d5/artifacts
+end_time: 1721644182813
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 9f07e0c519a14e6d8317e2c16c4c04d5
+run_name: polite-seal-208
+run_uuid: 9f07e0c519a14e6d8317e2c16c4c04d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644180839
+status: 3
+tags: []
+user_id: khant

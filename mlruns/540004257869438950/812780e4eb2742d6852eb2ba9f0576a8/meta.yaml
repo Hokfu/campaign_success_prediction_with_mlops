@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/812780e4eb2742d6852eb2ba9f0576a8/artifacts
+end_time: 1721644518506
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 812780e4eb2742d6852eb2ba9f0576a8
+run_name: treasured-shark-546
+run_uuid: 812780e4eb2742d6852eb2ba9f0576a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644514396
+status: 3
+tags: []
+user_id: khant

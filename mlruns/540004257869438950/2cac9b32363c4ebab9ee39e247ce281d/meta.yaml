@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2cac9b32363c4ebab9ee39e247ce281d/artifacts
+end_time: 1721644378604
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 2cac9b32363c4ebab9ee39e247ce281d
+run_name: sassy-hawk-389
+run_uuid: 2cac9b32363c4ebab9ee39e247ce281d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644376072
+status: 3
+tags: []
+user_id: khant

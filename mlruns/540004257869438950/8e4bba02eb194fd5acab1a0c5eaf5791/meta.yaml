@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/8e4bba02eb194fd5acab1a0c5eaf5791/artifacts
+end_time: 1721644504273
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 8e4bba02eb194fd5acab1a0c5eaf5791
+run_name: welcoming-wasp-174
+run_uuid: 8e4bba02eb194fd5acab1a0c5eaf5791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644501231
+status: 3
+tags: []
+user_id: khant

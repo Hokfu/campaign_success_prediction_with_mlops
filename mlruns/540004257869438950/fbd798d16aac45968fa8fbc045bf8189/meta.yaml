@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/fbd798d16aac45968fa8fbc045bf8189/artifacts
+end_time: 1721644696052
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: fbd798d16aac45968fa8fbc045bf8189
+run_name: melodic-finch-489
+run_uuid: fbd798d16aac45968fa8fbc045bf8189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644689792
+status: 3
+tags: []
+user_id: khant

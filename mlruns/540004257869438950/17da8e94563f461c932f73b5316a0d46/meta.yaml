@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/17da8e94563f461c932f73b5316a0d46/artifacts
+end_time: 1721644333815
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 17da8e94563f461c932f73b5316a0d46
+run_name: abrasive-ant-204
+run_uuid: 17da8e94563f461c932f73b5316a0d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644330683
+status: 3
+tags: []
+user_id: khant

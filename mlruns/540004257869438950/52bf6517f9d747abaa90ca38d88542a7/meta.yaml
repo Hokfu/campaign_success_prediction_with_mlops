@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/52bf6517f9d747abaa90ca38d88542a7/artifacts
+end_time: 1721644324193
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 52bf6517f9d747abaa90ca38d88542a7
+run_name: rare-dog-470
+run_uuid: 52bf6517f9d747abaa90ca38d88542a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644320989
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/feba901f21734547abdd0a695e1a8106/artifacts
+end_time: 1721644070162
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: feba901f21734547abdd0a695e1a8106
+run_name: colorful-crane-616
+run_uuid: feba901f21734547abdd0a695e1a8106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644069931
+status: 3
+tags: []
+user_id: khant

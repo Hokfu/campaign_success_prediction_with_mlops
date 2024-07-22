@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d4d794f7c8334457918b0b6c1e29e8fe/artifacts
+end_time: 1721644078258
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d4d794f7c8334457918b0b6c1e29e8fe
+run_name: youthful-hound-306
+run_uuid: d4d794f7c8334457918b0b6c1e29e8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644077897
+status: 3
+tags: []
+user_id: khant

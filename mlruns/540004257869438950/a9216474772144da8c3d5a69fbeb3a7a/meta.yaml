@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/a9216474772144da8c3d5a69fbeb3a7a/artifacts
+end_time: 1721644979998
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: a9216474772144da8c3d5a69fbeb3a7a
+run_name: vaunted-mare-110
+run_uuid: a9216474772144da8c3d5a69fbeb3a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644972242
+status: 3
+tags: []
+user_id: khant

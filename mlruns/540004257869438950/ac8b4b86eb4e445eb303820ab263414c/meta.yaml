@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/ac8b4b86eb4e445eb303820ab263414c/artifacts
+end_time: 1721644070392
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: ac8b4b86eb4e445eb303820ab263414c
+run_name: placid-lark-325
+run_uuid: ac8b4b86eb4e445eb303820ab263414c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644070169
+status: 3
+tags: []
+user_id: khant

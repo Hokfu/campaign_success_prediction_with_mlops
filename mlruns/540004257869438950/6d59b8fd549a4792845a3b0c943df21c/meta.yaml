@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/6d59b8fd549a4792845a3b0c943df21c/artifacts
+end_time: 1721644095955
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 6d59b8fd549a4792845a3b0c943df21c
+run_name: awesome-jay-341
+run_uuid: 6d59b8fd549a4792845a3b0c943df21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644095154
+status: 3
+tags: []
+user_id: khant

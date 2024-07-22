@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/f40462f1b42a415f9e9ccca3024ffa5c/artifacts
+end_time: 1721644085461
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: f40462f1b42a415f9e9ccca3024ffa5c
+run_name: dazzling-pig-708
+run_uuid: f40462f1b42a415f9e9ccca3024ffa5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644084746
+status: 3
+tags: []
+user_id: khant

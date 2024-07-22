@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/15635fe225f44c28842a9a843b492d7e/artifacts
+end_time: 1721644376071
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 15635fe225f44c28842a9a843b492d7e
+run_name: bustling-snipe-317
+run_uuid: 15635fe225f44c28842a9a843b492d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644373558
+status: 3
+tags: []
+user_id: khant

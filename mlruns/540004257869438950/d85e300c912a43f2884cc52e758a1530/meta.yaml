@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d85e300c912a43f2884cc52e758a1530/artifacts
+end_time: 1721644729117
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d85e300c912a43f2884cc52e758a1530
+run_name: defiant-wren-734
+run_uuid: d85e300c912a43f2884cc52e758a1530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644726641
+status: 3
+tags: []
+user_id: khant

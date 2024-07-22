@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/4e76bda0b5ce4ce684c36376535f3528/artifacts
+end_time: 1721645121937
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 4e76bda0b5ce4ce684c36376535f3528
+run_name: defiant-snail-248
+run_uuid: 4e76bda0b5ce4ce684c36376535f3528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645118829
+status: 3
+tags: []
+user_id: khant

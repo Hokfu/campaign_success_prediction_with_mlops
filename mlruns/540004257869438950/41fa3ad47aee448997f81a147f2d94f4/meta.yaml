@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/41fa3ad47aee448997f81a147f2d94f4/artifacts
+end_time: 1721644498040
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 41fa3ad47aee448997f81a147f2d94f4
+run_name: lyrical-steed-756
+run_uuid: 41fa3ad47aee448997f81a147f2d94f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644494736
+status: 3
+tags: []
+user_id: khant

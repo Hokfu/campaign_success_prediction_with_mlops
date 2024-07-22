@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/d0a0277289d2458ea1e8d9a3f9b39cf7/artifacts
+end_time: 1721644090928
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: d0a0277289d2458ea1e8d9a3f9b39cf7
+run_name: puzzled-snake-700
+run_uuid: d0a0277289d2458ea1e8d9a3f9b39cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644090351
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/86cd31d463c843a8863a557024f4b57c/artifacts
+end_time: 1721645143995
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 86cd31d463c843a8863a557024f4b57c
+run_name: intelligent-crow-117
+run_uuid: 86cd31d463c843a8863a557024f4b57c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645139202
+status: 3
+tags: []
+user_id: khant

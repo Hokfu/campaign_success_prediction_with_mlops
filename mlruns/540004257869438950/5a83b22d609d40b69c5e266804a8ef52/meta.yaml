@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/5a83b22d609d40b69c5e266804a8ef52/artifacts
+end_time: 1721653318711
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 5a83b22d609d40b69c5e266804a8ef52
+run_name: incongruous-wolf-62
+run_uuid: 5a83b22d609d40b69c5e266804a8ef52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721653311520
+status: 3
+tags: []
+user_id: khant

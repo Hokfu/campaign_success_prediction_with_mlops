@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/4223ef39bb0247c999d251d5b08eae9b/artifacts
+end_time: 1721644316252
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 4223ef39bb0247c999d251d5b08eae9b
+run_name: calm-kit-475
+run_uuid: 4223ef39bb0247c999d251d5b08eae9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644313950
+status: 3
+tags: []
+user_id: khant

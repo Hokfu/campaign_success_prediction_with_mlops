@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/134b978279db4ba6ac7313492f97dcb0/artifacts
+end_time: 1721644123489
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 134b978279db4ba6ac7313492f97dcb0
+run_name: gregarious-wasp-48
+run_uuid: 134b978279db4ba6ac7313492f97dcb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644122020
+status: 3
+tags: []
+user_id: khant

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/2ad38de0b49747c8a14881cd3ea24097/artifacts
+deleted_time: 1721653150764
+end_time: 1721647210213
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: deleted
+run_id: 2ad38de0b49747c8a14881cd3ea24097
+run_name: capricious-mink-79
+run_uuid: 2ad38de0b49747c8a14881cd3ea24097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721647197508
+status: 3
+tags: []
+user_id: khant

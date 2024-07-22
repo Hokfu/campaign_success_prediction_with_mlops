@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/955c9847ebd9413280351ca30db76527/artifacts
+end_time: 1721644637417
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 955c9847ebd9413280351ca30db76527
+run_name: welcoming-donkey-126
+run_uuid: 955c9847ebd9413280351ca30db76527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644631632
+status: 3
+tags: []
+user_id: khant

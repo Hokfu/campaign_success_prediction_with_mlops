@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/8f4c8f41db604ac58aee4b7744409d17/artifacts
+end_time: 1721644414395
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 8f4c8f41db604ac58aee4b7744409d17
+run_name: respected-newt-867
+run_uuid: 8f4c8f41db604ac58aee4b7744409d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721644409898
+status: 3
+tags: []
+user_id: khant

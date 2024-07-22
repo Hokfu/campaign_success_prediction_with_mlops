@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/540004257869438950/06985c9fdfaf4d63bc3e6dbe1136ab53/artifacts
+end_time: 1721645148690
+entry_point_name: ''
+experiment_id: '540004257869438950'
+lifecycle_stage: active
+run_id: 06985c9fdfaf4d63bc3e6dbe1136ab53
+run_name: able-fawn-155
+run_uuid: 06985c9fdfaf4d63bc3e6dbe1136ab53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721645144003
+status: 3
+tags: []
+user_id: khant
