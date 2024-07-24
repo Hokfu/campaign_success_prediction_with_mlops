@@ -1,0 +1,120 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_path: campaign_success_prediction/data_loaders/ingest.py
+    file_source:
+      path: campaign_success_prediction/data_loaders/ingest.py
+  downstream_blocks:
+  - prepare
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: ingest
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: ingest
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_path: campaign_success_prediction/transformers/prepare.py
+    file_source:
+      path: campaign_success_prediction/transformers/prepare.py
+  downstream_blocks:
+  - train
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: prepare
+  retry_config: null
+  status: executed
+  timeout: null
+  type: transformer
+  upstream_blocks:
+  - ingest
+  uuid: prepare
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_source:
+      path: campaign_success_prediction/markdowns/feature_target.md
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: markdown
+  name: feature_target
+  retry_config: null
+  status: updated
+  timeout: null
+  type: markdown
+  upstream_blocks: []
+  uuid: feature_target
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_source:
+      path: campaign_success_prediction/transformers/train.py
+  downstream_blocks:
+  - log_model
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: train
+  retry_config: null
+  status: executed
+  timeout: null
+  type: transformer
+  upstream_blocks:
+  - prepare
+  uuid: train
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_source:
+      path: campaign_success_prediction/data_exporters/log_model.py
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: log_model
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_exporter
+  upstream_blocks:
+  - train
+  uuid: log_model
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2024-07-24 14:14:36.275254+00:00'
+data_integration: null
+description: Pipeline for Random Forest Classification Model for Campaign Success
+  Prediction
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: campaign_success_prediction_pipeline
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags:
+- tag_1
+type: python
+uuid: campaign_success_prediction_pipeline
+variables_dir: /home/src/mage_data/campaign_success_prediction
+widgets: []
