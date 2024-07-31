@@ -1,16 +1,16 @@
-## Project Description
+# Project Description
 
-### Overview
+## Overview
 
 The objective of this MLOps project is to build a robust machine learning pipeline for predicting the success of marketing campaigns using data sourced from Kaggle. This pipeline will incorporate experiment tracking, orchestration, deployment, and monitoring to ensure a scalable and reliable solution.
 
-### Data
+## Data
 The project utilizes a dataset from Kaggle that includes the following features: 'GoalAmount', 'RaisedAmount', 'DurationDays', 'NumBackers', 'Category', 'LaunchMonth', 'Country', 'Currency', 'OwnerExperience', 'VideoIncluded', 'SocialMediaPresence', 'NumUpdates', 'IsSuccessful'. The dataset is preprocessed and split into training and testing sets to facilitate model development and evaluation. 
 
 Here is the link to the dataset - [campaign data](https://www.kaggle.com/datasets/preethamgouda/campaign-data)
 
 
-### Methodology
+## Methodology
 
 1. **Exploratory Data Analysis (EDA)**:
    - Performed exploratory data analysis on the campaign dataset to gain insights into the data distribution, identify potential issues (e.g., missing values, outliers), and understand the relationships between features and the target variable
@@ -31,7 +31,9 @@ Here is the link to the dataset - [campaign data](https://www.kaggle.com/dataset
    - Stored and logged final model in MLflow artifact 
 
 
-### Experiment Tracking
+**[Link](notebook.ipynb)**
+
+## Experiment Tracking
 
 **Tools**: [MLflow](https://mlflow.org/)
 
@@ -62,7 +64,7 @@ pip install -r requirements.txt
 
 **[Link](notebook.ipynb)**
 
-### Orchestration
+## Orchestration
 
 **Tools**: [Mage](https://www.mage.ai/)
 
@@ -75,13 +77,17 @@ pip install -r requirements.txt
 
 **[Link](orchestration)**
 
-### Deployment
+## Deployment
 
 **Tools**: Docker
 
-**Description**: 
+**Description**: Build and deploy the machine learning model as a batch prediction service and a web service using Docker containers. The batch prediction service allows for processing large datasets offline, while the web service exposes an API for making real-time predictions.
 
 **Batch**
+
+```
+cd .\deployment\batch_deployment\ 
+```
 
 ```
 docker build -t campaign-success-prediction .
@@ -96,6 +102,10 @@ docker run campaign-success-prediction python predict.py https://github.com/Hokf
 ```
 
 **Web Service**
+
+```
+cd .\deployment\web_service_deployment\ 
+```
 
 ```
 docker build -t campaign-success-prediction-web .
