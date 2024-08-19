@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ## Deployment
 
-**Tools**: Docker
+**Tools**: [Docker](https://www.docker.com/)
 
 **Description**: Build and deploy the machine learning model as a batch prediction service and a web service using Docker containers. The batch prediction service allows for processing large datasets offline, while the web service exposes an API for making real-time predictions.
 
@@ -117,3 +117,35 @@ docker run -it --rm -p 8000:8000 campaign-success-predictios-prediction-web
 
 
 **[Link](deployment)**
+
+
+## Monitoring
+
+**Tools**: [Evidently](https://www.evidentlyai.com/), [Grafana](https://grafana.com/)
+
+**Description**: The monitoring system tracks the following metrics:
+
+- Column Drift for the prediction column: Monitors the distribution of the prediction column to detect any drift from the reference data.
+- Dataset Drift: Monitors the overall drift of the dataset compared to the reference data, considering all numerical and categorical features.
+- Dataset Missing Values: Tracks the percentage of missing values in the dataset.
+
+These metrics are calculated using the Evidently library and visualized in Grafana dashboards for easy monitoring and analysis.
+
+<image src="images/avg_prediction_drift.png" alt="average_prediction_drift">
+
+*Fig: Average Prediction Column Drift*
+
+The prediction drift metric measures the distribution shift between the prediction column in the reference data and the current data. A drift score of 0 indicates no drift, while a higher score signifies a larger deviation from the reference distribution.
+
+In the monitoring system, the average prediction drift is observed to be stable at around 0.00349. This low drift score suggests that the distribution of predictions in the current data remains consistent with the reference data used for training the model. A stable prediction drift is desirable as it indicates that the model's predictions are not deviating significantly from the expected behavior, ensuring reliable performance over time.
+
+**[Link](monitoring)**
+
+## Best Practices
+
+#### Model Prediction Testing
+
+To ensure the reliability of the model's predictions, a set of tests are implemented using the pytest framework. 
+
+**[Link](best-practices)**
+
